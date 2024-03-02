@@ -1,0 +1,67 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+    background-size: cover;
+}
+body{
+    background-image: url(imagens/plano\ de\ fundo\ netflix.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    margin-top: 250px;
+}
+h2{
+    font-size: 30px;
+}
+h5{
+    font-size: 28px;
+}
+input{
+    background: #000000b6;
+    height: 65px;
+    width: 500px;
+    border-radius: 5px;
+    color:#fff;
+}
+input::placeholder{
+    color: #fff;
+}
+button{
+    background: #f00;
+    color: #fff;
+    width: 130px;
+    height: 60px;
+    border-radius: 5px;
+}
+.container{
+    background: #000;
+    height: 95px;
+    display: flex;
+}
+ul{
+    list-style: none;
+    padding: 2px;
+    display: flex;
+    margin-top: 23px;
+}
+#netflix li{
+    display: inline;
+}
+#netflix li a{
+    text-decoration: none;
+    padding: 20px;
+    display: inline;
+    color: #fff;
+}
+body img{
+    height: 95px;
+    float: left;
+    width: 200px;
+}
+
+
+
