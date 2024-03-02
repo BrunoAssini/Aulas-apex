@@ -1,0 +1,62 @@
+body{
+background-image: url(plano\ de\ fundo\ spotfy.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+color: #fff;
+
+}
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+.container{
+    background: #000;
+    height: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    padding: 2px;
+    text-align: right;
+    display: flex;
+    margin-top: 35px;
+}
+#spotfy li{
+    display: inline;
+}
+#spotfy li a:hover{
+    color: #25f10e;
+}
+#spotfy li a{
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 20px;
+    display: inline;
+    color: #fff;
+}
+body img{
+    height: 50px;
+    margin-top: 20px;
+}
+img{
+    float: left;
+}
+.texto{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#btn-1{
+    border-radius: 50px;
+    height: 50px;
+    width: 250px;
+    background: #ffb9b9f1;
+}
+#btn-2{
+    border-radius: 50px;
+    height: 50px;
+    width: 180px;
+    color: #fff;
+    background: #000;
+}

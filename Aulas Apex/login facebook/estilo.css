@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin-top: 20px;
+}
+img{
+    width: 100px;
+}
+input{
+    border-radius: 3px;
+    border-style: none;
+    background: #cbcbcb26;
+    height: 45px;
+    width: 400px;
+    margin: 5px;
+}
+#btn-entrar{
+    border-radius: 3px;
+    background: #0044ff;
+    color: #fff;
+    width: 400px;
+    height: 45px;
+    border-style: none;
+}
+a{
+    text-decoration: none;
+    color: #0044ff;
+}
+.div-ou{
+    display: flex;
+    width: 450px;
+    margin: 1px auto;
+}
+hr{
+    width: 200px;
+}
+#criar-nova-conta{
+    border-radius: 3px;
+    width: 280px;
+    height: 30px;
+    background-color: #d6d6d629;
+}
